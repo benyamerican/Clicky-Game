@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "./Assets/Images/Bones.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./Assets/Images/Chekhov.JPG",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./Assets/Images/Worf.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./Assets/Images/Kirk.JPG",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./Assets/Images/LaForge.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./Assets/Images/Picard.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./Assets/Images/Riker.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./Assets/Images/Spock.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./Assets/Images/Scotty.JPG",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./Assets/Images/Sulu.JPG",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./Assets/Images/TashaYar.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./Assets/Images/Uhura.jpg",
+      "clicked": false
+    }
+  ]
+  
